@@ -5,4 +5,4 @@ It comes with the following modules installed:
 - [@nuxt/fonts](https://nuxt.com/modules/fonts) using `Inter` (defined in `assets/css/tailwindcss`).
 - [@nuxtjs/tailwindcss](https://nuxt.com/modules/tailwindcss)
 - [@nuxt/icon](https://nuxt.com/modules/icon)
-- [shadcn-nuxt](https://www.shadcn-vue.com/docs/installation/nuxt) with the `default` theme and `zinc` as the base color. You will need to re-initialize `shadcn` to change that.
+- [shadcn-nuxt](https://www.shadcn-vue.com) with the `default` theme and `blue` as the base color. You will need to re-initialize `shadcn` to change that.
